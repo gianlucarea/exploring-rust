@@ -3,35 +3,29 @@
 Welcome to my Rust repository! This repo is structured into two main sections: **Learning** and **Projects**. The **Learning** section contains my progress through Rust tutorials and courses, while the **Projects** section includes small applications I built to practice Rust.
 
 ## Repository Structure
-
 ```
-📂 rust-learning-and-projects
-│--📂 [learning](https://github.com/gianlucarea/exploring-rust/tree/main/learning)
-│   │--📂 [rust-book](https://github.com/gianlucarea/exploring-rust/tree/main/learning/rust-book)
-│   │   ├── Code from "The Rust Programming Language" book
-│   │--📂 [rust-crash-course](https://github.com/gianlucarea/exploring-rust/tree/main/learning/rust-crash-course)
-│   │   ├── Code and exercises from [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/)
-│--📂 [projects](https://github.com/gianlucarea/exploring-rust/tree/main/projects)
-│   │--📂 [todo-app](https://github.com/gianlucarea/exploring-rust/tree/main/projects/todoapp)
-│   │   ├── A simple command-line to-do application
-│   │--📂 [calculator](https://github.com/gianlucarea/exploring-rust/tree/main/projects/calculator)
-│   │   ├── A basic calculator built in Rust
+rust-learning-and-projects
+├── learning
+│   ├── rust-book
+│   ├── rust-crash-course
+├── projects
+│   ├── todo-app
+│   ├── calculator
 ```
+## [Learning Section](./tree/main/learning) 
 
-## Learning Section
-
-### Rust Book
+### [Rust Book](https://github.com/gianlucarea/exploring-rust/tree/main/learning/rust-book)
 This folder contains code examples and exercises from *[The Rust Programming Language](https://doc.rust-lang.org/book/)*, commonly referred to as "The Rust Book." It serves as an official and comprehensive guide to learning Rust.
 
-### Ultimate Rust Course
+### [Ultimate Rust Course]((https://github.com/gianlucarea/exploring-rust/tree/main/learning/rust-crash-course))
 This section includes my exercises and implementations from Ultimate Rust course. You can find the course [here](https://www.udemy.com/course/ultimate-rust-crash-course/).
 
-## Projects Section
+## [Projects Section](https://github.com/gianlucarea/exploring-rust/tree/main/projects)
 
-### To-Do App
+### [To-Do App](https://github.com/gianlucarea/exploring-rust/tree/main/projects/todoapp)
 A simple command-line to-do application that allows users to add, remove, and mark tasks as completed.
 
-### Calculator
+### [Calculator](https://github.com/gianlucarea/exploring-rust/tree/main/projects/calculator)
 A basic calculator built in Rust, supporting fundamental arithmetic operations.
 
 ## Contributing
